@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **React, node & express**
 
-- 📫 How to reach me **Gmail : banti.pandey8@gmail.com, github: https://github.com/Prem8804**
+- 📫 How to reach me **Gmail : banti.pandey8@gmail.com, linkedin : www.linkedin.com/in/prem-dutt-pandey
+
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
